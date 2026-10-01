@@ -1,0 +1,12 @@
+{
+  "_comment": "synthetic sample values. Copy, edit, and point NEWS_LAYOUT_CONFIG at the copy.",
+  "char_target_h": 640,
+  "char_y_base": 1180,
+  "char_edge_offset": -32,
+  "bubble_y": 1420,
+  "speakers": {
+    "speaker_a": {"orig": [1000, 1500], "side": "left",  "hflip": false},
+    "speaker_b": {"orig": [1000, 1500], "side": "right", "hflip": false},
+    "speaker_c": {"orig": [1000, 1500], "side": "left",  "hflip": false}
+  }
+}
